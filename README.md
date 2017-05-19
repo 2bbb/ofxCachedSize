@@ -11,23 +11,23 @@ float width = ofxGetWidth();
 ## API
 
 ```cpp
-int ofxGetScreenWidth()
+int ofxGetScreenWidth();
 
-int ofxGetScreenHeight()
+int ofxGetScreenHeight();
 
-ofPoint ofxGetScreenSize()
+ofPoint ofxGetScreenSize();
 
-int ofxGetWidth()
+int ofxGetWidth();
 
-int ofxGetHeight()
+int ofxGetHeight();
 
-ofPoint ofxGetWindowSize()
+ofPoint ofxGetWindowSize();
 
-int ofxGetWindowWidth()
+int ofxGetWindowWidth();
 
-int ofxGetWindowHeight()
+int ofxGetWindowHeight();
 
-ofRectangle ofxGetWindowRect()
+ofRectangle ofxGetWindowRect();
 ```
 
 ## Update histor
