@@ -15,7 +15,7 @@
 # and the PG will write to the console the kind of error and in which line it is
 
 meta:
-	ADDON_NAME = ofxChacedSize
+	ADDON_NAME = ofxCachedSize
 	ADDON_DESCRIPTION = get window size faster
 	ADDON_AUTHOR = ISHII 2bit
 	ADDON_TAGS = "utility"
