@@ -15,13 +15,13 @@
 # and the PG will write to the console the kind of error and in which line it is
 
 meta:
-	ADDON_NAME = ofxChainableSetting
-	ADDON_DESCRIPTION = utility for setting structure
+	ADDON_NAME = ofxChacedSize
+	ADDON_DESCRIPTION = get window size faster
 	ADDON_AUTHOR = ISHII 2bit
 	ADDON_TAGS = "utility"
-	ADDON_URL = http://github.com/2bbb/ofxChainableSetting
-	ADDON_GIT_URL = git://github.com/2bbb/ofxChainableSetting.git
-	ADDON_MINIMUM_OF_VERSION = 0.9.6
+	ADDON_URL = https://github.com/2bbb/ofxCachedSize
+	ADDON_GIT_URL = git@github.com:2bbb/ofxCachedSize.git
+	ADDON_MINIMUM_OF_VERSION = 0.9.0
 
 common:
 	# dependencies with other addons, a list of them separated by spaces 
